@@ -1,0 +1,1 @@
+A minimal starter template for creating websites.
